@@ -136,3 +136,5 @@
 (menu-bar-mode -1)
 (tool-bar-mode -1)
 (scroll-bar-mode -1)
+; automatically add new lines on C-n
+(setq next-line-add-newlines t)
