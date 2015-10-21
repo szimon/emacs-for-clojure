@@ -130,3 +130,6 @@
 ;; Langauage-specific
 (load "setup-clojure.el")
 (load "setup-js.el")
+
+;; Some productivity improvements
+(load "recent.el")
